@@ -1,0 +1,1 @@
+Vital rate GAM predictions
